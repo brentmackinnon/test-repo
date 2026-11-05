@@ -178,3 +178,7 @@ Want to get started? See the [quickstart tutorial](tutorials/quickstart).
 Test Packages aren't just another testing tool. They're a **community standard** that makes comprehensive WordPress compatibility testing possible for the first time.
 
 When everyone can share and combine tests, everyone's plugins work better together.
+
+## Publication verification
+
+Copperheron QIT automatic publication check: this sentence was committed after the first private publication.
