@@ -5,3 +5,5 @@
 Profiled document update verified.
 
 Second live timing sample.
+
+Final polling timing sample one.
