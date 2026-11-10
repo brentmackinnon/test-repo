@@ -7,3 +7,5 @@ Profiled document update verified.
 Second live timing sample.
 
 Final polling timing sample one.
+
+Final polling timing sample two.
