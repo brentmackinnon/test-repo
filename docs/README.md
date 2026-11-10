@@ -13,3 +13,5 @@ Final polling timing sample two.
 Bounded storage timing sample one.
 
 Bounded storage timing sample two.
+
+Batched preparation timing sample one.
