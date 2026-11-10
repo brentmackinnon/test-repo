@@ -15,3 +15,5 @@ Bounded storage timing sample one.
 Bounded storage timing sample two.
 
 Batched preparation timing sample one.
+
+Batched preparation timing sample two.
